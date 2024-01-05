@@ -2,9 +2,9 @@
 
 This repository contains MikroTik configurations and scripts I've used over the years.
 
-The collection is not yet completed. 
+Work in progress...
 
-# Notes
+# Miscellaneous
  - [TV7](notes/TV7.md)
 
 # More Stuff
